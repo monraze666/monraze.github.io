@@ -1,0 +1,47 @@
+body{
+	 background: url(img/10.jpg);
+	 background-size: cover;
+	 box-sizing: border-box;
+	 background-repeat: no-repeat;
+	 background-size:100%;
+	 overflow:inherit; 
+}
+.backfon{
+	 width:900px;
+     height:920px;
+     background:white;
+     position: relative;
+     bottom: 20px;
+     left:220px;
+     opacity: 0.9;
+}
+.text_1{
+     font-size:75px;
+     position:relative;
+     bottom:970px;
+     left:270px;
+     text-align:center;
+     width:800px   
+}
+.text_2{
+	position:relative;
+	bottom:900px;
+	left:230px;
+	width:850px
+
+}
+.botom{
+	 padding:5px; 
+	 font-size:45px;
+	 position:relative;
+	 bottom:840px;
+	 left:900px;
+	 color:black;
+	 border: solid 2px black;
+	 border-radius:2px; 
+	 box-shadow: gray 5px;
+	 text-align:center;
+}
+.botom:hover{
+	font-size:47px; 
+}
